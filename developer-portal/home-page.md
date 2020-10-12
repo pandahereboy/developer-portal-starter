@@ -1,6 +1,6 @@
 # Home page
 
-Usually, the home page is something fancy.
+Usually, the home page is something fancy.xxxxxxxx
 
 However, it can be a plain markdown file.
 
